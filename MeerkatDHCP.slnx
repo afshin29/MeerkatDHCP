@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="MeerkatDHCP.CLI/MeerkatDHCP.CLI.fsproj" Id="8a1606af-bd8f-4518-aaf8-94cd64e558d6" />
+    <Project Path="MeerkatDHCP.Database/MeerkatDHCP.Database.csproj" Id="8efb34c4-56c8-4c09-ae33-9f7a72c504a0" />
+    <Project Path="MeerkatDHCP.GrpcContracts/MeerkatDHCP.GrpcContracts.fsproj" Id="ad2baf81-8a6f-47ad-ae16-eb98f59044f7" />
+    <Project Path="MeerkatDHCP.Server/MeerkatDHCP.Server.fsproj" Id="d97dd869-1840-4319-8675-b68ed79e0f7a" />
+  </Folder>
+</Solution>
